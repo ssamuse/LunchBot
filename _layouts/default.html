@@ -2,11 +2,12 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-      <df-messenger
-        chat-title="LunchBot"
-        agent-id="7d76d094-c207-4ffe-895b-ab3ce2990b45"
-        language-code="ko"
-      ></df-messenger>
+    <df-messenger
+      intent="WELCOME"
+      chat-title="LunchBot"
+      agent-id="7d76d094-c207-4ffe-895b-ab3ce2990b45"
+      language-code="ko">
+    </df-messenger>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=640">
