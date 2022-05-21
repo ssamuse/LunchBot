@@ -38,15 +38,18 @@
 
 1위 : 가정식 백반
 
-<center><img src="https://user-images.githubusercontent.com/103111041/169541654-c1436b2c-a364-467d-817c-2b31c7057028.jpg" width="50" height="50"></center>
-
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/103111041/169541654-c1436b2c-a364-467d-817c-2b31c7057028.jpg" width="30%" height="30%">
+</p>
 
 단순하고 기본적인 것은 늘 질리지 않는 법이죠. 합리적인 가격으로 제대로 된 한 끼 식사를 해결할 수 있는 가장 좋은 방법이기도 하죠! 집보다 밖에서 식사하는 경우가 많은 직장인들, 한끼라도 집밥 같은 음식을 먹고자 하는 욕구 때문 아닐까요?
 
 
 2위 : 구내식당 
 
-![구내식당](https://user-images.githubusercontent.com/103111041/169543006-0f8ff9b7-2106-4a2f-8160-3c360bb9372d.jpg){: width="50%" height="50%"}{: .center}
+<center>
+  <img src="https://user-images.githubusercontent.com/103111041/169543006-0f8ff9b7-2106-4a2f-8160-3c360bb9372d.jpg" width="20%" height="20%>
+</center>
 
 회사에서 식대 명목으로 지원하는 경우가 많고 가격도 저렴하죠. 최근 공공기관이나 일부 기업은 외부인에게도 구내 식당을 개방한다고 하네요 ~
 
