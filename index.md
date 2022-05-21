@@ -47,10 +47,10 @@
 
 2위 : 구내식당 
 
-<center>
-  <img src="https://user-images.githubusercontent.com/103111041/169543006-0f8ff9b7-2106-4a2f-8160-3c360bb9372d.jpg" width="20%" height="20%>
-</center>
 
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/103111041/169543006-0f8ff9b7-2106-4a2f-8160-3c360bb9372d.jpg" width="30%" height="30%">
+</p>
 회사에서 식대 명목으로 지원하는 경우가 많고 가격도 저렴하죠. 최근 공공기관이나 일부 기업은 외부인에게도 구내 식당을 개방한다고 하네요 ~
 
 3위 :  김치찌개
