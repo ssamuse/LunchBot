@@ -52,11 +52,8 @@
 3위 :  김치찌개
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/103111041/169541654-c1436b2c-a364-467d-817c-2b31c7057028.jpg" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/103111041/169543410-89387f26-bfeb-4bff-9421-b969a24481d5.jpg" width="50%" height="50%">
 </p>
-
-
-![김치찌개](https://user-images.githubusercontent.com/103111041/169543410-89387f26-bfeb-4bff-9421-b969a24481d5.jpg){: width="50%" height="50%"}{: .center}
 
 한국인이라면 김치! 김치라는 식재료가 익숙한 만큼 그리고 칼칼한 이 맛, 점심으로 땡길만 하죠! 
 
@@ -79,6 +76,6 @@
 
 
 
-![출처] : 네이버블로그(<a href="https://blog.naver.com/highmanc/220856704745">https://blog.naver.com/highmanc/220856704745</a>)
+[출처] : 네이버블로그(<a href="https://blog.naver.com/highmanc/220856704745">https://blog.naver.com/highmanc/220856704745</a>)
 
 ### Top1-5위에서도 먹을 음식이 떠오르지 않는다면 런치봇에게 도움을 요청해 보세요-!
