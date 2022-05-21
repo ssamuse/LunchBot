@@ -39,7 +39,7 @@
 1위 : 가정식 백반
 
 <p align="center"> 
-  <img src="https://cdn.travie.com/news/photo/first/201205/img_15984_1.gif" width="50%" height="50%">
+  <img src="https://cdn.travie.com/news/photo/first/201205/img_15984_1.gif" width="50%" height="50%" margin="0" border="0">
 </p>
 
 단순하고 기본적인 것은 늘 질리지 않는 법이죠. 합리적인 가격으로 제대로 된 한 끼 식사를 해결할 수 있는 가장 좋은 방법이기도 하죠! 집보다 밖에서 식사하는 경우가 많은 직장인들, 한끼라도 집밥 같은 음식을 먹고자 하는 욕구 때문 아닐까요?
