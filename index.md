@@ -3,7 +3,7 @@
   
 
 
-### 🤖 오른쪽 아래 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="36px" height="36px" border="1" bordercolor="#ece4d8">을 클릭하시면 런치봇과 대화가 시작됩니다 :)  
+### 🤖 오른쪽 아래 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="36px" height="36px" style="display: block;">을 클릭하시면 런치봇과 대화가 시작됩니다 :)  
 
 
 ### 🤖 런치봇과 챗을 시작하기 전에 아래의 안내 사항을 먼저 확인해주세요!     
