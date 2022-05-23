@@ -28,9 +28,10 @@
 👆 어떤 단계에서든 처음으로 돌아가고 싶다면 '다른메뉴 추천‘을 클릭 또는 입력해주세요!  
 ```
   <br><br> 
-## « 직장인 점심 메뉴 TOP5 »
 
+<p align="center"> ## « 직장인 점심 메뉴 TOP5 » </p>
 
+<br><br> 
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/103111041/169541654-c1436b2c-a364-467d-817c-2b31c7057028.jpg" width="50%" height="50%" border="0">
