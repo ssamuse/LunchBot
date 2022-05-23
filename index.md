@@ -60,17 +60,18 @@
 
 4위 : 제육볶음
 
-
-![제육볶음](https://user-images.githubusercontent.com/103111041/169543566-fe88e016-0813-439e-8a08-26064dbbf862.jpg){: width="50%" height="50%"}{: .center}
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/103111041/169543566-fe88e016-0813-439e-8a08-26064dbbf862.jpg" width="50%" height="50%">
+</p>
 
 찌개를 별로 좋아하지 않는 당신! 가격도 저렴해서 한끼 식사로 밥 한공기는 뚝딱이죠~
 
 
 5위 : 돈까스 
 
-
-![돈까스](https://user-images.githubusercontent.com/103111041/169543726-397ba6da-5c75-4227-ba63-310e713faabc.jpg){: width="50%" height="50%"}{: .center}
-
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/103111041/169543726-397ba6da-5c75-4227-ba63-310e713faabc.jpg" width="50%" height="50%">
+</p>
 
 남녀노소 가리지 않고 누구나 좋아하는 친숙한 맛! 어렸을 때부터 먹던 추억이 있어서 그런지 더 맛있는 돈까스가 5위! 
 
