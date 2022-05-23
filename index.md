@@ -30,7 +30,7 @@
   <br><br> 
 ## « 직장인 점심 메뉴 TOP5 »
 
-1위 : 가정식 백반
+<p align="center"> 1위 : 가정식 백반</p>
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/103111041/169541654-c1436b2c-a364-467d-817c-2b31c7057028.jpg" width="50%" height="50%" border="0">
