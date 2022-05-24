@@ -45,10 +45,10 @@
         <h1>Lunch Bot</h1>
 
         {% if site.logo %}
-          <img src="https://image.architonic.com/img_pro1-6/156/6619/matilda-black-01-sq.jpg" alt="LunchBot" />
+          <img src="{{ site.description | default: site.github.project_tagline }}" alt="LunchBot" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><img src="https://static01.nyt.com/images/2020/07/05/pageoneplus/02insider-black/02insider-black-mobileMasterAt3x.jpg" width="400px" height="400px"></p>
 
 
         {% if site.github.is_user_page %}
