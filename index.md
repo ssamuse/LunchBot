@@ -13,7 +13,7 @@
 
 ### 🎯 런치봇의 키워드  
   
-<div style="border: 1px solid black; border-radius: 5px; padding: 10px;">
+<div style="border: 1px solid gray; border-radius: 5px; padding: 10px;">
 1. 기분 : 기쁨/ 신남/ 화남/ 짜증/ 예민/ 우울/ 슬픔<br>
 2. 날씨 : 맑음/ 비/ 흐림/ 바람/ 눈<br>
 3. 간편 : 편의점/ 한그릇 음식/ 다이어트/ 패스트푸드/ 분식<br>
@@ -22,11 +22,11 @@
 </div>
 <br><br>
 ### 🎯 런치봇 사용 설명서         
-```
-👆 런치봇은 직장인들의 메뉴 선택을 도와주는 챗봇입니다.  
-👆 키워드에 따른 당신의 욕구를 파악해 보세요.  
-👆 어떤 단계에서든 처음으로 돌아가고 싶다면 '다른메뉴 추천‘을 클릭 또는 입력해주세요!  
-```
+<div style="border: 1px solid gray; border-radius: 5px; padding: 10px;">
+👆 런치봇은 직장인들의 메뉴 선택을 도와주는 챗봇입니다.  <br>
+👆 키워드에 따른 당신의 욕구를 파악해 보세요.  <br>
+👆 어떤 단계에서든 처음으로 돌아가고 싶다면 '다른메뉴 추천'을 클릭 또는 입력해주세요!  
+</div>
   <br><br> 
 
 ## « 직장인 점심 메뉴 TOP5 » 
