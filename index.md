@@ -1,4 +1,4 @@
-# 오늘은 모먹지?봇 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="25px" height="25px">입니다.   
+# 오늘은 모먹지?봇 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="30px" height="30px">입니다.   
 <br>
   
 
