@@ -1,9 +1,9 @@
-# 오늘은 모먹지?봇 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="36px" height="36px">입니다.   
+# 오늘은 모먹지?봇 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="25px" height="25px">입니다.   
 <br>
   
 
 
-### 🤖 오른쪽 아래 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="36px" height="36px">을 클릭하면 런치봇과 대화가 시작됩니다 :)  
+### 🤖 오른쪽 아래 <img src="https://user-images.githubusercontent.com/103111041/169630391-8f1122ac-71b8-454c-a987-66b534ca33cc.png" width="25px" height="25px">을 클릭하면 런치봇과 대화가 시작됩니다 :)  
 
 
 ### 🤖 런치봇과 챗을 시작하기 전에 안내 사항을 먼저 확인해주세요!     
