@@ -36,7 +36,7 @@
 						<h2>Recent Work</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fnews.samsungdisplay.com%2F15580&psig=AOvVaw1d8WU2S3satPf7oiLA9usE&ust=1653555215111000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDBnayj-vcCFQAAAAAdAAAAABAD" alt="" /></a>
 								<h3>Magna sed consequat tempus</h3>
 								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
