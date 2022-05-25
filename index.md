@@ -34,7 +34,7 @@
 <br><br> 
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/103111041/169541654-c1436b2c-a364-467d-817c-2b31c7057028.jpg" width="50%" height="50%" border="0">
+  <img src="https://user-images.githubusercontent.com/103111041/170176467-1e0f3706-bdd6-434f-a3ce-73f0ae79041c.png" width="50%" height="50%" border="0">
 </p>
 
 <p align="center"> 1위 : 가정식 백반</p>
@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/103111041/169543006-0f8ff9b7-2106-4a2f-8160-3c360bb9372d.jpg" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/103111041/170176260-4bbe0aa9-b9ea-440e-ad14-56ead9199ac5.png" width="50%" height="50%">
 </p>
 
 <p align="center"> 2위 : 구내식당 </p>
@@ -56,7 +56,7 @@
 
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/103111041/169543410-89387f26-bfeb-4bff-9421-b969a24481d5.jpg" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/103111041/170176334-6937724f-b408-4964-aa9c-212d1d2c1749.jpg" width="50%" height="50%">
 </p>
 <p align="center"> 3위 :  김치찌개 </p>
 
@@ -76,7 +76,7 @@
 
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/103111041/169543726-397ba6da-5c75-4227-ba63-310e713faabc.jpg" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/103111041/170176407-b86f26e3-60eb-4f08-9271-c66b4dfbedac.png" width="50%" height="50%">
 </p>
 
 <p align="center"> 5위 : 돈까스  </p>
