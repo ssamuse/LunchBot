@@ -56,7 +56,7 @@
 
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/75359710/170230905-4a3998f2-3372-45c4-9d5c-ad5995b5fc84.png">
+  <img src="https://user-images.githubusercontent.com/75359710/170235484-0aac313d-8a51-4603-ad9d-9850a95e7d46.png">
 </p>
 <p style="text-align: center; font-weight: bold;"> 3위 :  김치찌개 </p>
 
