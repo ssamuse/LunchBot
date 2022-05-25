@@ -49,7 +49,7 @@
   <img src="https://user-images.githubusercontent.com/103111041/170176260-4bbe0aa9-b9ea-440e-ad14-56ead9199ac5.png" width="50%" height="50%">
 </p>
 
-<p align="center"> 2위 : 구내식당 </p>
+<p style="text-align: center; font-weight: bold;"> 2위 : 구내식당 </p>
 
   구내식당은 회사에서 식대 명목으로 지원하는 경우가 많고 가격도 저렴하죠. 최근 공공기관이나 일부 기업은 외부인에게도 구내 식당을 개방한다고 하네요 ~
 
