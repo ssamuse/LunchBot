@@ -29,7 +29,7 @@
 </div>
   <br><br> 
 
-##<center> « 직장인 점심 메뉴 TOP5 » </center>
+<h2 style="text-align: center;">« 직장인 점심 메뉴 TOP5 »</h2>
 
 <br><br> 
 
