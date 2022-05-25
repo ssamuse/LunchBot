@@ -37,7 +37,7 @@
   <img src="https://user-images.githubusercontent.com/103111041/170176467-1e0f3706-bdd6-434f-a3ce-73f0ae79041c.png" width="50%" height="50%" border="0">
 </p>
 
-<p align="center"> 1위 : 가정식 백반</p>
+<p style="text-align: center; font-weight: bold;"> 1위 : 가정식 백반</p>
 
   단순하고 기본적인 것은 늘 질리지 않는 법이죠. 백반은 합리적인 가격으로 제대로 된 한 끼 식사를 해결할 수 있는 가장 좋은 방법이에요! 
 집보다 밖에서 식사하는 경우가 많은 직장인들, 한끼라도 집밥 같은 음식을 먹고자 하는 욕구 때문에 백반이 1위인건 아닐까요?
@@ -58,7 +58,7 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/103111041/170176334-6937724f-b408-4964-aa9c-212d1d2c1749.jpg" width="50%" height="50%">
 </p>
-<p align="center"> 3위 :  김치찌개 </p>
+<p style="text-align: center; font-weight: bold;"> 3위 :  김치찌개 </p>
 
   한국인이라면 김치! 김치라는 식재료가 익숙한 만큼 그리고 칼칼한 이 맛, 점심으로 땡길시죠! 
 
@@ -68,7 +68,7 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/103111041/170177006-905252f8-7cfe-4fa0-98be-6249d6f2f08e.jpg" width="50%" height="50%">
 </p>
-<p align="center"> 4위 : 제육볶음 </p>
+<p style="text-align: center; font-weight: bold;"> 4위 : 제육볶음 </p>
 
   찌개를 별로 좋아하지 않는 당신! 가격도 저렴해서 한끼 식사로 밥 한공기는 뚝딱 ~
 
@@ -79,7 +79,7 @@
   <img src="https://user-images.githubusercontent.com/103111041/170176407-b86f26e3-60eb-4f08-9271-c66b4dfbedac.png" width="50%" height="50%">
 </p>
 
-<p align="center"> 5위 : 돈까스  </p>
+<p style="text-align: center; font-weight: bold;"> 5위 : 돈까스  </p>
 
   남녀노소 가리지 않고 누구나 좋아하는 친숙한 맛! 어렸을 때부터 먹던 추억이 있어서 그런지 더 맛있는 돈까스가 5위! 
 
