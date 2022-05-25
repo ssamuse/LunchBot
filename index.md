@@ -66,7 +66,7 @@
 
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/103111041/169543566-fe88e016-0813-439e-8a08-26064dbbf862.jpg" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/103111041/170177006-905252f8-7cfe-4fa0-98be-6249d6f2f08e.jpg" width="50%" height="50%">
 </p>
 <p align="center"> 4위 : 제육볶음 </p>
 
