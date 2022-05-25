@@ -31,7 +31,7 @@
 
 <h2 style="text-align: center;">« 직장인 점심 메뉴 TOP5 »</h2>
 
-<br><br> 
+<br>
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/75359710/170231479-0348c304-8048-4720-8cf2-9a711fd1db87.png" width="50%" height="50%" border="0">
