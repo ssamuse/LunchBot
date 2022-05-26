@@ -1,4 +1,4 @@
-# 오늘은 모먹지?봇 <img src="https://user-images.githubusercontent.com/75359710/170239186-89737c2c-bae1-4cb3-950d-72280abc14d8.png" width="8%" height="8%">입니다.   
+# 오늘은 모먹지? 런치봇 <img src="https://user-images.githubusercontent.com/75359710/170239186-89737c2c-bae1-4cb3-950d-72280abc14d8.png" width="8%" height="8%">입니다.   
 <br>
   
 
@@ -11,7 +11,7 @@
   
   
 
-### 🎯 런치봇의 키워드  
+### 🎯 런치봇 키워드  
   
 <div style="border: 1px solid #E5E5E5; background-color:#F8F8F8; border-radius: 5px; padding: 10px;">
 1. 기분 : 기쁨/ 신남/ 화남/ 짜증/ 예민/ 우울/ 슬픔<br>
